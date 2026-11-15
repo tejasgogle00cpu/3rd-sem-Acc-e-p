@@ -1,0 +1,6 @@
+{
+  "name": "LedgerLoop — Financial Accounting Exam Hub",
+  "description": "Bite-sized study guides, interactive mini-games, worked problems, and targeted YouTube explanations built from your Financial Accounting course materials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
